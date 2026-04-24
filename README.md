@@ -46,7 +46,8 @@ wp-content/
 | 2 | SV002 | Tran Thi B | Marketing | 15/08/2002 |
 
 ## Anh chup ket qua
-![alt text](image.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1671a8cd-a3b0-47ca-8d3f-1373fca4418e" />
+
 
 
 ### Anh nen bo sung them
